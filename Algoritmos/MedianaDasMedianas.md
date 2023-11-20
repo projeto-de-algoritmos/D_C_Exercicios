@@ -1,4 +1,4 @@
-# Algoritmo de Dividir e Conquistar: Mediana das Medianas
+# Mediana das Medianas
 
 O algoritmo da Mediana das Medianas é uma técnica eficaz para calcular a mediana de um conjunto de dados, especialmente quando existem outliers que podem impactar adversamente a estimativa. Essa abordagem utiliza a estratégia de "dividir e conquistar" para lidar com o problema de forma mais robusta.
 

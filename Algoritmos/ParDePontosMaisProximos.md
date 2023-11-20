@@ -1,4 +1,4 @@
-# Algoritmo de Dividir e Conquistar: Par de Pontos Mais Próximos
+# Par de Pontos Mais Próximos
 
 O problema do "par de pontos mais próximos" envolve encontrar a distância mínima entre dois pontos em um conjunto de pontos bidimensionais. O algoritmo de dividir e conquistar é uma abordagem eficiente para resolver esse problema.
 
